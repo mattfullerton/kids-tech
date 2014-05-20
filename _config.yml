@@ -5,6 +5,8 @@ disqus_shortname:
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # url:              http://localhost:4000
+#See https://github.com/mjswensen/jekyll/blob/gh-pages/docs/github-pages.md
+base-url: /kids-tech
 
 # Owner/author information
 owner:
