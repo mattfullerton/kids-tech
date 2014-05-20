@@ -1,5 +1,6 @@
 ---
 layout: post
+author: matt
 title: "littleBits - Cooling Campfire"
 description: "Our first littleBits project"
 category: articles
